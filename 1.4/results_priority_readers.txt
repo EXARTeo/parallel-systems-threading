@@ -1,0 +1,85 @@
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.99 0.01
+Inserted 1000 keys in empty list
+Elapsed time = 2.773671e+00 seconds
+Total ops = 500000
+member ops = 495059
+insert ops = 4941
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.95 0.05
+Inserted 1000 keys in empty list
+Elapsed time = 1.729188e+01 seconds
+Total ops = 500000
+member ops = 474933
+insert ops = 25067
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.9 0.1
+Inserted 1000 keys in empty list
+Elapsed time = 4.175211e+01 seconds
+Total ops = 500000
+member ops = 449730
+insert ops = 50270
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.8 0.2
+Inserted 1000 keys in empty list
+Elapsed time = 9.363360e+01 seconds
+Total ops = 500000
+member ops = 399666
+insert ops = 100334
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.65 0.35
+Inserted 1000 keys in empty list
+Elapsed time = 2.009661e+02 seconds
+Total ops = 500000
+member ops = 324796
+insert ops = 175204
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.55 0.45
+Inserted 1000 keys in empty list
+Elapsed time = 3.317138e+02 seconds
+Total ops = 500000
+member ops = 274744
+insert ops = 225256
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.5 0.5
+Inserted 1000 keys in empty list
+Elapsed time = 4.208503e+02 seconds
+Total ops = 500000
+member ops = 249485
+insert ops = 250515
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.45 0.55
+Inserted 1000 keys in empty list
+Elapsed time = 5.202738e+02 seconds
+Total ops = 500000
+member ops = 224480
+insert ops = 275520
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.3 0.7
+Inserted 1000 keys in empty list
+Elapsed time = 9.134182e+02 seconds
+Total ops = 500000
+member ops = 149658
+insert ops = 350342
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.2 0.8
+Inserted 1000 keys in empty list
+Elapsed time = 1.185132e+03 seconds
+Total ops = 500000
+member ops = 99702
+insert ops = 400298
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.1 0.9
+Inserted 1000 keys in empty list
+Elapsed time = 1.451777e+03 seconds
+Total ops = 500000
+member ops = 49879
+insert ops = 450121
+delete ops = 0
+linux18:/home/users/sdi2200098/par/1.4>./main 12 0 1000 500000 0.01 0.99
+Inserted 1000 keys in empty list
+Elapsed time = 1.299253e+03 seconds
+Total ops = 500000
+member ops = 4933
+insert ops = 495067
+delete ops = 0
+
